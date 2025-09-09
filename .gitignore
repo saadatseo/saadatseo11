@@ -1,0 +1,30 @@
+# Development files
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# System files
+Thumbs.db
+ehthumbs.db
+
+# Build artifacts (if any)
+dist/
+build/
+.cache/
+
+# Dependencies (if any)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor backups
+*.bak
+*.swp
+*.swo
